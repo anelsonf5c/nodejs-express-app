@@ -26,9 +26,10 @@ Make sure you have the following installed:
 - **npm** (Node Package Manager)
 - **Postman** (to test the API endpoints)
 
-### **Installation**
+## Installation
 
-1. Clone the repository:
+1. **Clone the repository**:
    ```bash
-     git clone https://github.com/anelsonf5c/nodejs-express-app.git
-cd nodejs-express-app
+   git clone https://github.com/anelsonf5c/nodejs-express-app.git
+   cd nodejs-express-app
+
